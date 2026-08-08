@@ -1,4 +1,4 @@
-# Alpha-Repository
+# C Program Repository
 This is my first Git Repository.
 <br>
 Author - Alpha (Alpha-tech15)
