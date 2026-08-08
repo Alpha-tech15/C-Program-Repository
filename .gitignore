@@ -1,0 +1,12 @@
+# Ignore executables and binary files
+*.exe
+*.out
+*.o
+*.obj
+
+# Ignore VS Code / IDE settings folders (optional but recommended)
+.vscode/
+.idea/
+
+# Ignore temporary/build files
+*.dSYM/
