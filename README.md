@@ -1,5 +1,5 @@
 # C Program Repository
-This is my first Git Repository.
+Hi
 <br>
 Author - Alpha (Alpha-tech15)
 <br>
